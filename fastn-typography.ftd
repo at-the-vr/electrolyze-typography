@@ -1,17 +1,17 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: at-the-vr.github.io/electrolyze-typography
 
 
 
--- site-doc.doc-home: <repo_name> package
-site-title: `<repo_name>`
+-- site-doc.doc-home: electrolyze-typography package
+site-title: `electrolyze-typography`
 show-tabs: false
-github-url: <user_name>.github.io/<repo_name>
-current-package: <user_name>.github.io/<repo_name>
+github-url: at-the-vr.github.io/electrolyze-typography
+current-package: at-the-vr.github.io/electrolyze-typography
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of electrolyze-typography.
 
 -- display-type:
-types: $<repo_name>.types
+types: $electrolyze-typography.types
 
 
 -- end: site-doc.doc-home

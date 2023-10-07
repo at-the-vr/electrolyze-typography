@@ -7,11 +7,17 @@
 -- fastn.dependency: fastn-community.github.io/footer
 ;; replace inter-font package name with font package name you want to create
 ;; typography document for:
--- fastn.dependency: fastn-community.github.io/inter-font
+-- fastn.dependency: at-the-vr.github.io/electrolyze-typography
 
 -- fastn.auto-import: fastn-community.github.io/site-doc
 -- fastn.auto-import: fastn-community.github.io/code-block as cb
+-- fastn.auto-import: at-the-vr.github.io/electrolyze-typography/assets as assets
 
+-- fastn.font: Electrolyze
+style: normal
+weight: 100
+woff2: -/at-the-vr.github.io/electrolyze-typography/static/Electrolyze-Regular.woff2
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD
 
 
 -- fastn.sitemap:

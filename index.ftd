@@ -1,5 +1,4 @@
 -- import: at-the-vr.github.io/electrolyze-typography/custom
--- import: fastn-community.github.io/inter-font/assets as inter-assets
 
 ;; ⚠️fastn-builders::⚠️ before using this file please find and replace inter-font
 ;; with font package name you have given inside this package 
@@ -227,14 +226,14 @@ line-height.px: 60
 size.px: 52
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type heading-hero-desktop:
 line-height.px: 60
 size.px: 52
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type heading-hero:
 desktop: $heading-hero-desktop
@@ -249,14 +248,14 @@ line-height.px: 48
 size.px: 40
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type heading-large-desktop:
 line-height.px: 48
 size.px: 40
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type heading-large:
 desktop: $heading-large-desktop
@@ -271,13 +270,13 @@ line-height.px: 44
 size.px: 32
 letter-spacing.px: 0
 weight: 600
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type heading-medium-desktop:
 line-height.px: 44
 size.px: 32
 letter-spacing.px: 0
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 weight: 600
 
 -- ftd.responsive-type heading-medium:
@@ -293,14 +292,14 @@ line-height.px: 36
 size.px: 24
 letter-spacing.px: 0
 weight: 500
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type heading-small-desktop:
 line-height.px: 36
 size.px: 24
 letter-spacing.px: 0
 weight: 500
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type heading-small:
 desktop: $heading-small-desktop
@@ -316,14 +315,14 @@ line-height.px: 26
 size.px: 18
 letter-spacing.px: 0
 weight: 500
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type heading-tiny-desktop:
 line-height.px: 26
 size.px: 18
 letter-spacing.px: 0
 weight: 500
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type heading-tiny:
 desktop: $heading-tiny-desktop
@@ -338,13 +337,13 @@ line-height.px: 28
 size.px: 20
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type copy-large-desktop:
 line-height.px: 28
 size.px: 20
 letter-spacing.px: 0
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 weight: 400
 
 -- ftd.responsive-type copy-large:
@@ -360,13 +359,13 @@ line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type copy-regular-desktop:
 line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 weight: 400
 
 -- ftd.responsive-type copy-regular:
@@ -382,7 +381,7 @@ line-height.px: 20
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 
 -- ftd.type copy-small-desktop:
@@ -390,7 +389,7 @@ line-height.px: 20
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type copy-small:
 desktop: $copy-small-desktop
@@ -405,14 +404,14 @@ line-height.px: 18
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type fine-print-desktop:
 line-height.px: 18
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type fine-print:
 desktop: $fine-print-desktop
@@ -427,14 +426,14 @@ line-height.px: 16
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type blockquote-desktop:
 line-height.px: 16
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type blockquote:
 desktop: $blockquote-desktop
@@ -449,14 +448,14 @@ line-height.px: 16
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type source-code-desktop:
 line-height.px: 16
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type source-code:
 desktop: $source-code-desktop
@@ -471,14 +470,14 @@ line-height.px: 22
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type label-large-desktop:
 line-height.px: 22
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type label-large:
 desktop: $label-large-desktop
@@ -493,14 +492,14 @@ line-height.px: 16
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type label-small-desktop:
 line-height.px: 16
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type label-small:
 desktop: $label-small-desktop
@@ -515,14 +514,14 @@ line-height.px: 24
 size.px: 18
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type button-large-desktop:
 line-height.px: 24
 size.px: 18
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type button-large:
 desktop: $button-large-desktop
@@ -537,14 +536,14 @@ line-height.px: 21
 size.px: 16
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type button-medium-desktop:
 line-height.px: 21
 size.px: 16
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type button-medium:
 desktop: $button-medium-desktop
@@ -559,14 +558,14 @@ line-height.px: 19
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type button-small-desktop:
 line-height.px: 19
 size.px: 14
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type button-small:
 desktop: $button-small-desktop
@@ -581,14 +580,14 @@ line-height.px: 19
 size.px: 14
 letter-spacing.px: 0
 weight: 400
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.type link-desktop:
 line-height.px: 19
 size.px: 14
 letter-spacing.px: 0
 weight: 700
-font-family: $inter-assets.fonts.Inter
+font-family: $assets.fonts.Electrolyze
 
 -- ftd.responsive-type link:
 desktop: $link-desktop
